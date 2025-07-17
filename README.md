@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Next.js and Advanced DSA**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, JavaScript, Java**
-- 📫 How to reach me: sudhanshuuuu@gmail.com
-- ⚡ Fun fact: I love building UI, cricket 🏏 and clean code ✨
+- 📫 How to reach me: iamprince220@gmail.com
+- ⚡ Fun fact: I love playing cricket and watching football;
 
 ---
 
