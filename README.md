@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Shekhar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js and Advanced DSA**
+- 🌱 I’m currently learning **Aws and Advanced DSA**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, JavaScript, Java**
 - 📫 How to reach me: iamprince220@gmail.com
